@@ -1,0 +1,2 @@
+https://api.telegram.org/bot5382055326:AAEGCi6rjtXRLVMQWA3n3MR5nrhIP2MuA7M/sendMessage?chat_id=1841883121&text=hannaky_treo
+https://api.telegram.org/bot5382055326:AAEGCi6rjtXRLVMQWA3n3MR5nrhIP2MuA7M/sendMessage?chat_id=1841883121&text=hannaky_treo1
